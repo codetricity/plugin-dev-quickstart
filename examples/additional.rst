@@ -23,6 +23,15 @@ Skyway THETA Plug-in Example
 * `GitHub <https://github.com/theta360developers/skyway_theta_plugin_example>`_
 * `Documentation and Discussion <https://community.theta360.guide/t/theta-live-streaming-360-video-with-webrtc-direct-from-camera/4082?u=codetricity>`_
 
+.. index:: M5Stack, ESP32, Arduino
+
+M5Stack (ESP32 Arduino) Sample Serial Code
+------------------------------------------
+* Sample code to connect the THETA V to the M5Stack ESP32 Arudino with the USB port of the THETA. Take pictures, displays
+QRcode
+* `GitHub <https://github.com/theta360developers/theta-plugin-m5-serial-remote-sample>`_
+* `Documentation and Discussion <https://community.theta360.guide/t/m5-stack-esp32-and-ricoh-theta/4102?u=codetricity>`_
+
 .. index:: WebRTC
 
 WebRTC Plug-in Sample Picture Shooting Only
