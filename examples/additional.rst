@@ -27,10 +27,17 @@ Skyway THETA Plug-in Example
 
 M5Stack (ESP32 Arduino) Sample Serial Code
 ------------------------------------------
-* Sample code to connect the THETA V to the M5Stack ESP32 Arudino with the USB port of the THETA. Take pictures, displays
-QRcode
+* Sample code to connect the THETA V to the M5Stack ESP32 Arudino with the USB port of the THETA. Take pictures, displays QRcode
 * `GitHub <https://github.com/theta360developers/theta-plugin-m5-serial-remote-sample>`_
 * `Documentation and Discussion <https://community.theta360.guide/t/m5-stack-esp32-and-ricoh-theta/4102?u=codetricity>`_
+
+.. index:: OpenCV
+
+OpenCV Plug-in
+--------------
+* NDK to use the OpenCV library inside the THETA.
+* `GitHub <https://github.com/theta360developers/opencvsample>`_
+* `Documentation and Discussion <https://community.theta360.guide/t/ricoh-blog-post-running-opencv-in-your-ricoh-theta/4084?u=codetricity>`_
 
 .. index:: WebRTC
 
