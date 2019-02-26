@@ -14,6 +14,14 @@ Here are additional plug-ins from the community. The long videos one are all bas
 `THETA Sample Plug-in: Camera API <https://github.com/theta360developers/theta-plugin-camera-api-sample>`_
 project listed above.
 
+
+theta4j THETA Web API Example
+-----------------------------
+* Client implementation of RICOH THETA API v2.1 with example of using theta4j inside of plug-in. Kotlin and Java examples. 
+* `GitHub Plug-in Example <https://github.com/theta4j/theta-web-api/tree/master/plugin-example>`_
+* `GitHub Library <https://github.com/theta4j/theta-web-api>`_
+
+
 .. index:: accelerometer, compass, sensors
 
 THETA Motion Sensors
