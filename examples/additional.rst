@@ -14,6 +14,12 @@ Here are additional plug-ins from the community. The long videos one are all bas
 `THETA Sample Plug-in: Camera API <https://github.com/theta360developers/theta-plugin-camera-api-sample>`_
 project listed above.
 
+theta4j library
+---------------
+* Use THETA OSC API 2.1 from inside of plug-in. Library allows easier access. Java and Kotlin examples.
+* `GitHub <https://github.com/theta4j/theta-web-api>`_
+
+
 .. index:: accelerometer, compass, sensors
 
 THETA Motion Sensors
