@@ -14,6 +14,14 @@ Here are additional plug-ins from the community. The long videos one are all bas
 `THETA Sample Plug-in: Camera API <https://github.com/theta360developers/theta-plugin-camera-api-sample>`_
 project listed above.
 
+.. index:: opencv, hdr
+
+HDR2EXR by Kasper Oerlemans
+---------------------------
+* Create HDR file inside the camera using OpenCV
+* `GitHub <https://github.com/iamagod/HDR2EXR>`_
+* `Discussion <https://community.theta360.guide/t/hdr-plugin-to-automatically-create-exr-file-for-vfx-use/4132?u=codetricity>`_
+
 .. index:: live streaming
 
 Skyway THETA Plug-in Example
