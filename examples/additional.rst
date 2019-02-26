@@ -14,6 +14,14 @@ Here are additional plug-ins from the community. The long videos one are all bas
 `THETA Sample Plug-in: Camera API <https://github.com/theta360developers/theta-plugin-camera-api-sample>`_
 project listed above.
 
+.. index:: accelerometer, compass, sensors
+
+THETA Motion Sensors
+--------------------
+* Use THETA internal accelerometer and magnetic field sensors to trigger events such as taking a picture.
+* `GitHub <https://github.com/theta360developers/theta-motion-sensor>`_
+* `Discussion <https://community.theta360.guide/t/howto-use-theta-motion-sensors/4145?u=codetricity>`_
+
 .. index:: opencv, hdr
 
 HDR2EXR by Kasper Oerlemans
@@ -22,7 +30,7 @@ HDR2EXR by Kasper Oerlemans
 * `GitHub <https://github.com/iamagod/HDR2EXR>`_
 * `Discussion <https://community.theta360.guide/t/hdr-plugin-to-automatically-create-exr-file-for-vfx-use/4132?u=codetricity>`_
 
-.. index:: live streaming
+.. index:: live streaming, WebRTC
 
 Skyway THETA Plug-in Example
 ----------------------------
@@ -56,7 +64,7 @@ WebRTC Plug-in Sample Picture Shooting Only
 * `Documentation and Discussion <https://community.theta360.guide/t/create-a-webrtc-p2p-shooting-app-with-the-theta-plug-in/4050/2?u=codetricity>`_
 
 
-.. index:: user interface
+.. index:: user interface, GUI
 
 Web GUI Sample
 --------------
@@ -94,7 +102,7 @@ TensorFlow THETA
 * `Discussion <https://community.theta360.guide/t/how-to-build-tensorflow-apps-for-ricoh-theta/3808?u=codetricity>`_
 
 
-.. index:: user interface
+.. index:: user interface, GUI
 
 Meowshot
 --------
