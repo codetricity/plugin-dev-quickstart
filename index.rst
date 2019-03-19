@@ -15,7 +15,7 @@ THETA Plug-in Development - Getting Started
 Overview
 ========
 
-1. `Join the partner program <https://api.ricoh/products/theta-plugin/>`_ (it's free as of Oct 2018)
+1. `Join the partner program <https://api.ricoh/products/theta-plugin/>`_ (it's free as of Mar 2019)
 2. Enable THETA developer mode - Use RICOH desktop application on Mac or Windows
 3. Download one of the many code examples from GitHub - My personal favorite starting place is `THETA Sample Plug-in: CameraAPI Capture Plugin <https://github.com/ricohapi/theta-plugin-camera-api-sample>`_
 4. Open project in Android Studio
@@ -34,7 +34,5 @@ After you set the permissions with Vysor, you need to complete the following ste
 
 Resources and Help
 ==================
-* `RICOH THETA Plugin Development Guide <http://theta360.guide/plugin-guide/>`_ (Community)
-* `THETA Plug-in User Guide <http://theta360.guide/plugin-user-guide/>`_ (Community)
+* `Articles and Discussion <https://community.theta360.guide/c/theta-api-usage/plugin>`_ (Community)
 * `Official API Documentation <https://api.ricoh/docs/theta-plugin/api/?utm_source=theta360guide>`_ (RICOH)
-* `Community Discussion <https://community.theta360.guide/c/theta-api-usage/plugin>`_ (Community)
