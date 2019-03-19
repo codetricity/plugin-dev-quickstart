@@ -41,7 +41,7 @@ Different APIs can be used to take pictures and video with RICOH THETA cameras:
 * `Web API <https://api.ricoh/docs/theta-plugin-reference/web-api/>`_
 
 You can also use the Web API through third-party libraries such as
-`theta4j<https://community.theta360.guide/t/theta4j-minimal-plug-in-example-in-java/4184?u=codetricity>`_.
+`theta4j <https://community.theta360.guide/t/theta4j-minimal-plug-in-example-in-java/4184?u=codetricity>`_.
 
 The Camera API does not inject metadata into the images and video. You 
 should use the Web API if it meets your application requirements.
