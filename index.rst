@@ -20,8 +20,8 @@ Overview
 3. Download one of the code examples 
 4. Open project in Android Studio and modify
 5. Press Play to build project and install into THETA with a USB cable
-6. If you hear a "beep-beep-beep" error sound, use `Vysor <https://www.vysor.io/>`_ 
-to set application permissions
+6. If you hear a "beep-beep-beep" error sound, use `Vysor <https://www.vysor.io/>`_ to set application permissions
+
 
 Testing Plug-in Untethered
 --------------------------
