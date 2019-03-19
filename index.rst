@@ -32,10 +32,22 @@ To run the plug-in using the side "mode" button on the camera:
 2. Put camera into plug-in mode by pressing the lower mode button for more than 2 seconds. 
    The LED above the shutter button will turn white.
 
+API Choices
+===========
+
+Different APIs can be used to take pictures and video with RICOH THETA cameras:
+
+* `Camera API <https://api.ricoh/docs/theta-plugin-reference/camera-api/>`_
+* `Web API <https://api.ricoh/docs/theta-plugin-reference/web-api/>`_
+
+You can also use the Web API through third-party libraries such as
+`theta4j<https://community.theta360.guide/t/theta4j-minimal-plug-in-example-in-java/4184?u=codetricity>`.
+
+
 Resources and Help
 ==================
 
-If you have any questions, direct them to the community link below.
+If you have any questions, please direct them to the community link below.
 
 * `Articles and Discussion <https://community.theta360.guide/c/theta-api-usage/plugin>`_ (Community)
 * `Official API Documentation <https://api.ricoh/docs/theta-plugin/api/?utm_source=theta360guide>`_ (RICOH)
