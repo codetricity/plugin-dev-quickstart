@@ -14,10 +14,6 @@ Here are additional plug-ins from the community. The long videos one are all bas
 `THETA Sample Plug-in: Camera API <https://github.com/theta360developers/theta-plugin-camera-api-sample>`_
 project listed above.
 
-theta4j library
----------------
-* Use THETA OSC API 2.1 from inside of plug-in. Library allows easier access. Java and Kotlin examples.
-* `GitHub <https://github.com/theta4j/theta-web-api>`_
 
 
 .. index:: accelerometer, compass, sensors
@@ -145,3 +141,46 @@ Live Streaming Plug-in Sample for RICOH THETA
   for their cloud. 
 * Author: Ricoh
 * `GitHub <https://github.com/theta360developers/theta-plugin-ricoh-live-streaming-sample>`_
+
+
+Cloud Upload 
+------------
+* Upload automatically from THETA to Google Photos for 360 and VR viewing
+* Author: Ricoh
+* `GitHub <https://github.com/theta360developers/theta-cloud-upload-plugin>`_
+* Status: No longer works
+
+
+.. index:: live streaming
+
+Wireless Live Streaming
+-----------------------
+* 4K equirectangular live streaming from THETA direct to YouTube and Facebook using RTMP
+* Author: Ricoh
+* `GitHub <https://github.com/theta360developers/theta-wireless-live-streaming-plugin>`_
+
+Automatic Face Blur
+-------------------
+* Automatically detect and blur the faces of people to protect privacy
+* Author: Ricoh
+* `GitHub <https://github.com/theta360developers/theta-automatic-face-blur-plugin>`_
+
+
+FastCV Plug-in Sample for RICOH THETA
+-------------------------------------
+* Image processing via FastCV
+* Author: RICOH
+* `GitHub <https://github.com/theta360developers/theta-plugin-fastcv-sample>`_ 
+
+GPS/GNSS Receiver Plug-in Sample for RICOH THETA
+------------------------------------------------
+* Receives GPS / GNSS data and updates position information in the camera
+* Author: RICOH
+* `GitHub <https://github.com/theta360developers/theta-plugin-gnssreceiver-sample>`_ 
+
+
+THETA Sample Plug-in: WebAPI Capture Plugin
+-------------------------------------------
+* Great sample application to use the WebAPI from the plug-in
+* Author: Shohara
+* `GitHub <https://github.com/theta360developers/theta-plugin-web-api-sample>`_ 

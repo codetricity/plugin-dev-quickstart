@@ -1,56 +1,23 @@
-Main Code Examples
+Core Code Examples
 ==================
+
 You can develop custom functionality for RICOH THETA V 
 cameras in minutes by downloading an existing open source 
 plug-in and modifying it for your specific requirements.
-Here are 8 plug-ins that will get your development started like a 
-rocket.
 
-Cloud Upload 
-------------
-* Upload automatically from THETA to Google Photos for 360 and VR viewing
+THETA Plug-in SDK
+-----------------
+* Official plug-in SDK
 * Author: Ricoh
-* `GitHub <https://github.com/theta360developers/theta-cloud-upload-plugin>`_
-
-.. index:: live streaming
-
-Wireless Live Streaming
------------------------
-* 4K equirectangular live streaming from THETA direct to YouTube and Facebook using RTMP
-* Author: Ricoh
-* `GitHub <https://github.com/theta360developers/theta-wireless-live-streaming-plugin>`_
-
-Automatic Face Blur
--------------------
-* Automatically detect and blur the faces of people to protect privacy
-* Author: Ricoh
-* `GitHub <https://github.com/theta360developers/theta-automatic-face-blur-plugin>`_
-
+* API: Primarily shows WebAPI
+* `GitHub <https://github.com/ricohapi/theta-plugin-sdk>`_ 
 
 THETA Sample Plug-in: CameraAPI Capture Plugin
 ----------------------------------------------
 * Excellent starting point for using the internal CameraAPI to take pictures and video. Simple and easy to customize. 
 * Author: Ricoh
+* API: CameraAPI
 * `GitHub <https://github.com/theta360developers/theta-plugin-camera-api-sample>`_
-
-THETA Sample Plug-in: WebAPI Capture Plugin
--------------------------------------------
-* Great sample application to use the WebAPI from the plug-in
-* Author: Shohara
-* `GitHub <https://github.com/theta360developers/theta-plugin-web-api-sample>`_ 
-
-FastCV Plug-in Sample for RICOH THETA
--------------------------------------
-* Image processing via FastCV
-* Author: RICOH
-* `GitHub <https://github.com/theta360developers/theta-plugin-fastcv-sample>`_ 
-
-GPS/GNSS Receiver Plug-in Sample for RICOH THETA
-------------------------------------------------
-* Receives GPS / GNSS data and updates position information in the camera
-* Author: RICOH
-* `GitHub <https://github.com/theta360developers/theta-plugin-gnssreceiver-sample>`_ 
-
 
 
 
@@ -59,10 +26,16 @@ Dual-fisheye Plug-in
 * Ichi Hirota's dual-fisheye plug-in to take 3 bracketed images. Includes examples for modifying 
   exposure and the number of images
 * Author: Ichi Hirota
+* API: CameraAPI
 * `GitHub <https://github.com/theta360developers/original-dual-fisheye-plugin>`_ 
 
-THETA Plug-in SDK
------------------
-* Official plug-in SDK
-* Ricoh
-* `GitHub <https://github.com/ricohapi/theta-plugin-sdk>`_ 
+
+
+theta4j THETA Web API Example
+-----------------------------
+* Client implementation of RICOH THETA API v2.1 with example of using theta4j inside of plug-in. Kotlin and Java examples. 
+* Author: Shiro
+* API: theta4j - third-party open source library
+* `GitHub Plug-in Example <https://github.com/theta4j/theta-web-api/tree/master/plugin-example>`_
+* `GitHub Library <https://github.com/theta4j/theta-web-api>`_
+
