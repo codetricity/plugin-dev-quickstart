@@ -1,5 +1,5 @@
-My First Plug-in
-================
+Camera API Dual-Fisheye Example
+===============================
 
 .. index:: dual-fisheye
 

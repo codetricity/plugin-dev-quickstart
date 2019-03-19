@@ -8,7 +8,7 @@ THETA Plug-in Development - Getting Started
 
    examples/main
    examples/additional
-   firstplugin/firstplugin
+   cameraapi/cameraapi
    streaming/tips
    
 
