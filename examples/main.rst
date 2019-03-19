@@ -1,9 +1,6 @@
-Core Code Examples
+Main Code Examples
 ==================
 
-You can develop custom functionality for RICOH THETA V 
-cameras in minutes by downloading an existing open source 
-plug-in and modifying it for your specific requirements.
 
 THETA Plug-in SDK
 -----------------
